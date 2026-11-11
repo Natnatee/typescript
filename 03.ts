@@ -22,3 +22,6 @@ function autocomplete(search: string, items: string[], maxResult: number): strin
 }
 
 console.log(autocomplete("th", ["Mother", "Think", "Worthy", "Apple", "Android"], 2))
+
+
+
